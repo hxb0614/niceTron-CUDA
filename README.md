@@ -15,7 +15,7 @@
 
 2)点击“运行-前后缀模式-单卡.bat”
 
-<img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%875.png" width="600px">
+
 <img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%876.png" width="600px">
 <img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%877.png" width="600px">
 
@@ -24,6 +24,7 @@
 <img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%872.png" width="600px">
 <img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%873.png" width="600px">
 <img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%874.png" width="600px">
+<img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%875.png" width="600px">
 
 英伟达CUDA版最快的波场靓号生成 &amp; 波场地址生成 &amp; tron靓号生成 &amp; tron地址生成 &amp; 地址离线生成 &amp; 靓号离线生成&amp;TRX靓号生成&amp;支持自定义尾号&amp;GPU加速
 nicetron-前后缀&靓号cuda版-v2.30使用说明
