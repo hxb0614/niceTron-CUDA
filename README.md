@@ -26,6 +26,17 @@
 <img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%874.png" width="600px">
 <img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%875.png" width="600px">
 
+**本软件计算的靓号样板**
+TFexvpkbvr4wFPAGDg7cthqY4888888888
+TJjCBan3aCGhSnYtdGdPkfmPg111111111
+TXAy3ZmB2uUwiDcydhqEJc8tX444444444
+TLVtztS5hwppXxGsboG3AVPy4666666666
+TRSd9Rc7wCAA2phSNyCJ3crBC444444444
+TBRFdfeRrDE84fQwjfnveSvL3777777777
+THhF71gvCjSUQ7VGHQwWG1VCy333333333
+TQTyCbkusQ4gw9A8upPircVgo444444444
+TWZunfVCXLfTWo4hbiLU9x5CY999999999
+
 英伟达CUDA版最快的波场靓号生成 &amp; 波场地址生成 &amp; tron靓号生成 &amp; tron地址生成 &amp; 地址离线生成 &amp; 靓号离线生成&amp;TRX靓号生成&amp;支持自定义尾号&amp;GPU加速
 nicetron-前后缀&靓号cuda版-v2.30使用说明
 
