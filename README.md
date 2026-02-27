@@ -15,22 +15,21 @@ RTX 4090 8卡||3-5  34秒||3-6  32分钟||3-7  32.1小时||3-8 2.6月
 RTX 5090速度比RTX 4090快20%
 **使用说明**
 
-1)第一步安装英伟达官网CUDA驱动
+
+
+1) 第一步激活，关注[@TronLiangHaoZX](https://t.me/TronLiangHaoZX) 获取激活码
+
+
+<img src=https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%876.png” width="600px">" width="600px">
+
+2)第二步点击“启动按钮”，你就能快速得到靓号，就这么简单
+
+
+<img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/2.%E7%AC%AC2%E6%AD%A5%E8%BF%90%E8%A1%8C.jpg" width="600px">
+
+注意：安装英伟达官网CUDA驱动cuda12.1以上
 驱动下载地址https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local
 <img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%871.png" width="600px">
-
-2) 关注[@TronLiangHaoZX](https://t.me/TronLiangHaoZX) 获取激活码
-
-
-<img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%876.png" width="600px">
-<img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%877.png" width="600px">
-
-3)点击“启动按钮”，你就能快速得到靓号，就这么简单
-
-<img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%872.png" width="600px">
-<img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%873.png" width="600px">
-<img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%874.png" width="600px">
-<img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%875.png" width="600px">
 
 **本软件计算的靓号样板**
 TFexvpkbvr4wFPAGDg7cthqY4888888888
