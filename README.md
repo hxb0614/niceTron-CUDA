@@ -20,7 +20,7 @@ RTX 5090速度比RTX 4090快20%
 1) 第一步激活，关注[@TronLiangHaoZX](https://t.me/TronLiangHaoZX) 获取激活码
 
 
-<img src=“https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/1.%E7%AC%AC1%E6%AD%A5%E6%BF%80%E6%B4%BB.jpg” width="600px">
+<img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/1.%E7%AC%AC1%E6%AD%A5%E6%BF%80%E6%B4%BB.jpg" width="600px">
 
 2) 第二步点击“启动按钮”，你就能快速得到靓号，就这么简单
 
