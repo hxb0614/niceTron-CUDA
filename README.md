@@ -6,7 +6,8 @@
 1. 2023-04-18 已支持笔记本电脑独立显卡运行，适配过的显卡有RTX5090、RTX4090、RTX4070、RTX3090、RTX2080\2060、RTX1660\1650、A100\V100\T4
 2. 2023-04-21 已支持亚马逊云、阿里云、腾讯云GPU主机，支持 windowsserver2022 数据中心（DCH）操作系统，需自行安装英伟达驱动。支持多GPU卡，程序已适配显卡型号：V100、A100
 3. 2025-06-15 更新v2.48版本，所有显卡计算提升25%，修复部分异常故障。
-4. 关注频道了解最新更新动态 [@TronLiangHaoZX](https://t.me/TronLiangHaoZX) 
+4. 2026-02-27 发布UI交互QTNiceTron CUDA版本，性能再提升20%，用 4090显卡，靓号直接到每秒21亿，前后缀狂暴到每秒48亿次，是你的靓号首选工具
+6. 关注频道了解最新更新动态 [@TronLiangHaoZX](https://t.me/TronLiangHaoZX) 
 **计算时间说明**
 RTX 2060s|| 3-5  25分钟||3-6  24.2小时||3-7  58.5天||3-8 9.3年
 RTX 4090||3-5  4.5分钟||3-6  4.3小时||3-7  10.5天||3-8 1.7年
@@ -18,13 +19,13 @@ RTX 5090速度比RTX 4090快20%
 驱动下载地址https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local
 <img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%871.png" width="600px">
 
-2)点击“运行-前后缀模式-单卡.bat”
+2) 关注[@TronLiangHaoZX](https://t.me/TronLiangHaoZX) 获取激活码
 
 
 <img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%876.png" width="600px">
 <img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%877.png" width="600px">
 
-3)点击“运行-靓号模式-单卡.bat”
+3)点击“启动按钮”，你就能快速得到靓号，就这么简单
 
 <img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%872.png" width="600px">
 <img src="https://github.com/hxb0614/niceTron-CUDA/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%873.png" width="600px">
